@@ -1,0 +1,13 @@
+{ 
+	"author_name": "Emile Fraser",
+    "email": "efraser25@gmail.com",
+    "github_username": "emilefraser",
+    "project_name": "Cookie Project",
+    "project_slug": "cookieproject",
+    "project_description": "Cookie Project Description",
+	"module_name": "Cookie Module",
+	"module_slug": "cookie_module",
+    "release_date": "2022-04-16",
+    "version": "0.1.0",
+    "open_source_license": "MIT license"
+}

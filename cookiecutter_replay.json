@@ -1,0 +1,13 @@
+{ 
+	"author_name": "Emile Fraser",
+    "email": "efraser25@gmail.com",
+    "github_username": "emilefraser",
+    "project_name": "PyroDocker",
+    "project_slug": "pyrodocker",
+    "project_description": "My personal library of Dockerfiles, Docker Images, docker-compose templates and other docker related scripts",
+	"module_name": "Dockerfiles",
+	"module_slug": "dockerfiles",
+    "release_date": "2022-07-05",
+    "version": "0.1.0",
+    "open_source_license": "MIT license"
+}

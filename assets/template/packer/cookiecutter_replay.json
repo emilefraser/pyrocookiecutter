@@ -1,0 +1,18 @@
+{
+  "cookiecutter": {
+    "author_name": "Emile Fraser",
+    "email": "efraser25@gmail.com",
+    "github_username": "emilefraser",
+    "project_name": "packer project",
+    "project_slug": "packer_project",
+    "project_description": "packer multipass ubuntu",
+    "module_name": "packer module",
+    "module_slug": "packer_module",
+    "module_distro": "ubuntu",
+    "release_date": "2022-09-27",
+    "version": "0.1.0",
+    "open_source_license": "MIT license",
+    "_template": "gh:emilefraser/pyrocc_packer",
+    "_output_dir": "/home/pyromaniac/repos/pyrocc/test"
+  }
+}

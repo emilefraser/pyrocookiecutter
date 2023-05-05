@@ -1,0 +1,27 @@
+#!/usr/bin/env aptfile
+# ^ note the above shebang
+
+# trigger an apt-get update
+update
+
+# install some packages
+package "build-essential"
+
+# install a ppa
+# ppa "fkrull/deadsnakes-python2.7"
+
+# install a few more packages from that ppa
+# package "python-dev"
+
+# setup some debian configuration
+# debconf_selection "mysql mysql-server/root_password password root"
+# debconf_selection "mysql mysql-server/root_password_again password root"
+
+# install another package
+# package "mysql-server"
+
+# install a package from a download url
+# package_from_url "google-chrome-stable" "https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb"
+
+# you can also execute arbitrary bash
+echo "🚀  ALL GOOD TO GO"

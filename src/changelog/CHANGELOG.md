@@ -1,0 +1,1 @@
+https://gist.githubusercontent.com/juampynr/4c18214a8eb554084e21d6e288a18a2c/raw/6d61b1ced1c66349cf9ef6ce5eb84546ebf6e79d/CHANGELOG.md

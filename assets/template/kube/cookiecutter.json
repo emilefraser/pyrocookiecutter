@@ -1,0 +1,13 @@
+{ 
+	"author_name": "Emile Fraser",
+    "email": "efraser25@gmail.com",
+    "github_username": "emilefraser",
+    "project_name": "Project Name",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+    "project_description": "Project Description",
+	"module_name": "Module Name",
+	"module_slug": "{{ cookiecutter.module_name.lower().replace(' ', '_').replace('-', '_') }}",
+    "release_date": "{% now 'local' %}",
+    "version": "0.1.0",
+    "open_source_license": ["MIT license", "BSD license", "ISC license", "Apache Software License 2.0", "GNU General Public License v3", "Not open source"]
+}
